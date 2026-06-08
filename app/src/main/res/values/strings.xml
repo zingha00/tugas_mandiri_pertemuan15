@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App -->
+    <string name="app_name">I-Mo</string>
+    <string name="app_tagline">Inventory Mobile</string>
+
+    <!-- ══ MainActivity ══ -->
+    <string name="title_daftar_barang">Daftar Barang</string>
+    <string name="label_total_barang">Total Barang</string>
+    <string name="label_item">item</string>
+    <string name="hint_cari_barang">Cari nama barang…</string>
+    <string name="empty_state">Belum ada barang.\nTambah barang baru!</string>
+    <string name="btn_tambah_barang">Tambah Barang</string>
+
+    <!-- ══ AddBarangActivity ══ -->
+    <string name="title_tambah_barang">Tambah Barang</string>
+    <string name="hint_nama_barang">Nama Barang</string>
+    <string name="hint_kategori">Kategori</string>
+    <string name="hint_stok">Stok</string>
+    <string name="hint_harga">Harga (Rp)</string>
+    <string name="hint_deskripsi">Deskripsi (opsional)</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_batal">Batal</string>
+
+    <!-- ══ DetailBarangActivity ══ -->
+    <string name="title_detail_barang">Detail Barang</string>
+    <string name="title_edit_barang">Edit Barang</string>
+    <string name="label_kategori">Kategori</string>
+    <string name="label_stok">Stok</string>
+    <string name="label_harga">Harga</string>
+    <string name="label_deskripsi">Deskripsi</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_hapus">Hapus</string>
+    <string name="btn_update">Update</string>
+
+    <!-- ══ Pesan / Toast ══ -->
+    <string name="msg_berhasil_tambah">Barang berhasil ditambahkan!</string>
+    <string name="msg_berhasil_update">Barang berhasil diperbarui!</string>
+    <string name="msg_berhasil_hapus">Barang berhasil dihapus!</string>
+    <string name="msg_gagal_muat">Gagal memuat data. Periksa koneksi!</string>
+    <string name="msg_field_kosong">Harap isi semua field yang wajib!</string>
+    <string name="msg_konfirmasi_hapus">Yakin ingin menghapus barang ini?</string>
+    <string name="msg_loading">Memuat data…</string>
+
+    <!-- ══ Umum ══ -->
+    <string name="ya">Ya, Hapus</string>
+    <string name="tidak">Batal</string>
+    <string name="unit_pcs">pcs</string>
+
+</resources>
